@@ -3,7 +3,7 @@ To be repurposed as a game engine in the future
 ## Execution instructions
 This project uses **CMake** as its build system and **Make** as a build tool.
 
-## Requirements
+### Requirements
 
 Before building the project, make sure you have:
 
@@ -11,7 +11,7 @@ Before building the project, make sure you have:
 - CMake 3.28 or newer
 - A C++ compiler with C++23 support (GCC, Clang, or MSVC)
 
-## Building and Running
+### Building and Running
 
 Clone the repository and run:
 
