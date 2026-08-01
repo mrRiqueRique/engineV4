@@ -9,7 +9,7 @@ Before building the project, make sure you have:
 
 - Git
 - CMake 3.28 or newer
--A C++ compiler with C++23 support (GCC, Clang, or MSVC)
+- A C++ compiler with C++23 support (GCC, Clang, or MSVC)
 
 ## Building and Running
 
