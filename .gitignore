@@ -1,0 +1,21 @@
+# Build
+build/
+
+# CMake
+CMakeUserPresets.json
+
+# IDEs
+.vscode/
+.vs/
+.idea/
+
+# Visual Studio
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
