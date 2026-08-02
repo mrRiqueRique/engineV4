@@ -1,4 +1,4 @@
-# Henrique's newest Graphics Engine
+# Henrique's latest Graphics Engine
 To be repurposed as a game engine in the future
 ## Execution instructions
 This project uses **CMake** as its build system and **Make** as a build tool.
