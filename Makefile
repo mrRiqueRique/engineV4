@@ -24,3 +24,8 @@ clean:
 	@echo "Limpando build..."
 	@rm -rf build
 	@echo "Build limpo."
+
+ci:
+	@mkdir -p build
+	@cd build && cmake .. -DCMAKE_BUILD_TYPE=Release
+	@cd build && cmake --build . --config Release -j$(CORES)
